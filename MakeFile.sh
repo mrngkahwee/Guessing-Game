@@ -4,4 +4,5 @@ info:guessinggame.sh
 	echo "'make' was run on:" >> README.md
 	date >> README.md
 	echo "Total number line of code in guessinggame.sh are:" >> README.md
+	echo "\n"
 	wc -l guessinggame.sh | egrep -o "[0-9]+" >> README.md
