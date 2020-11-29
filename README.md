@@ -1,13 +1,6 @@
-## The Unix Workbench Project
-*by Johns Hopkins University on [coursera.org](https://www.coursera.org/learn/unix/home/welcome).*
-
-**Description:** Make a program called *guessing_game.sh*. This program should continuously ask the user to guess the number of files in the current directory, until they guess the correct number. The user is informed if their guess is too high or too low. Once the user guesses the correct number of files in the current directory they should be congratulated.
-
-**Creation date:** 30/11/2020
-
-
-**Time:** 12am
-
-
-**Number of lines in guessing_game.sh:**
-      33
+#Title:
+./guessinggame.sh
+'make' was run on:
+Sun Nov 29 14:48:05 MPST 2020
+Total number line of code in guessinggame.sh are:
+32
